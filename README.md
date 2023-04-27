@@ -1,6 +1,6 @@
 # practica_github
 xd practica
-<<<<<<< HEAD
+
 yoel daniel
 =======
 
@@ -8,7 +8,13 @@ luigi suarez
 
 
 
+
 probbando merge
+
+=======
+probbando merge
+
+son las 7:46
 
 =======
 >>>>>>> f331ea2dacb4124e2e42aa0eb3cf891ba3df8306
