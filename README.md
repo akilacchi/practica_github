@@ -24,10 +24,11 @@ probbando merge
 
 son las 7:46
 
-<<<<<<< HEAD
+
 hola buen dia a todos escribe luigi haciendo una prueba  hoy es 27
 
 segunda prueba
+agregando algo nuevo
 
 =======
 >>>>>>> luigi
